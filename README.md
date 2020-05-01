@@ -29,7 +29,7 @@ Clone the repo and move repo to drive
 
 -------------------------------------------
 
-Explanation for files
+**Explanation for files**
 
 timegan_notebook.ipynb -> Main Colab notebook file to call necessary functions and run the model. (Please refer to information above for running)
 
